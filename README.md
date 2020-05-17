@@ -7,8 +7,8 @@ This App was produced during my master degree Software Design and Engineering at
 Import as maven project - all dependencies are included. The example runs on Chrome 80.
 
 ## Execution
-Run TestRunner. 
-<img src="images/ScreenShot-TestPassed.png">
+Run TestRunner. Demo: 
+![](images/BDD.gif)
 
 ## License
-This application is released under the MIT license. This licence does not extend to the third party software used or referenced, such as Chrome-Drivers or Selenium.  
+This application is released under the MIT license. 
